@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="./public/assets/images/logo-light.png" width="150">
-</p>
-
-<p align="center">
 <a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/d/total" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/v/stable" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/license" alt="License"></a>
