@@ -2,12 +2,7 @@
     <img src="./public/assets/images/logo-light.png" width="150">
 </p>
 <p align="center">Free open source admin dashboard<br>
-    <code><b>composer create-project anamsoft/hwaravel</b></code></p>
-<p align="center">
-<a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/d/total" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/v/stable" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/license" alt="License"></a>
-</p>
+    <code><b>git clone git@github.com:kdmachine/gymstore.git</b></code></p>
 
 ## About Hwaravel
 
