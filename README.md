@@ -1,8 +1,12 @@
 <p align="center">
     <img src="./public/assets/images/logo-light.png" width="150">
 </p>
-<p align="center">Free open source admin dashboard<br>
-    <code><b>git clone git@github.com:kdmachine/gymstore.git</b></code></p>
+
+<p align="center">
+<a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/d/total" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/anamsoft/hwaravel"><img src="https://poser.pugx.org/anamsoft/hwaravel/license" alt="License"></a>
+</p>
 
 ## About Hwaravel
 
@@ -36,15 +40,9 @@ From Version 5.0
 ## Installation & configuration:
 
 **Step1: Install last version S-cart**
-
-Option 1: **From composer**
+**From github**
 ```
-composer create-project anamsoft/hwaravel
-```
-
-Option 2: **From github**
-```
-git clone https://github.com/anamsoftware/hwaravel.git
+git clone git@github.com:kdmachine/gymstore.git
 ```
 Then, install vendor:
 ```
